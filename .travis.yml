@@ -6,6 +6,9 @@ cache:
   directories:
     - node_modules
 
+node_js:
+  - "5.3"
+
 env:
   global:
     - NODE_ENV=test
