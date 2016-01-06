@@ -1,0 +1,4 @@
+ui: tape
+
+browserify:
+  - require: phantomjs-polyfill
