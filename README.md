@@ -25,3 +25,7 @@ var Component = AutoScroll({
 * `AutoScroll(options)(Component)`
 
 * `options.property` (string) Property to track for scrolling
+
+## License
+
+MIT
