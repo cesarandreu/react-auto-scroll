@@ -25,13 +25,13 @@
   "homepage": "https://github.com/cesarandreu/react-auto-scroll#readme",
   "devDependencies": {
     "object.assign": "^4.0.3",
-    "phantomjs": "^1.9.19",
-    "phantomjs-polyfill": "0.0.1",
+    "phantomjs-polyfill": "0.0.2",
+    "phantomjs-prebuilt": "^2.1.7",
     "react": "^0.14.5",
     "react-dom": "^0.14.5",
-    "standard": "^5.4.1",
-    "tape": "^4.4.0",
-    "zuul": "^3.8.0"
+    "standard": "^6.0.8",
+    "tape": "^4.5.1",
+    "zuul": "^3.10.1"
   },
   "peerDependencies": {
     "react": "^0.14.5",
