@@ -1,6 +1,6 @@
 {
   "name": "react-auto-scroll",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A HOC that will auto-scroll to the bottom when a property changes",
   "main": "lib/AutoScroll.js",
   "scripts": {
